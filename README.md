@@ -1,2 +1,2 @@
 # ping-pong
-this is classic ping-pong
+Это мультиплеерная игра, написанная на языке прогроммирования Python с помощью библиотеки Pygame.
